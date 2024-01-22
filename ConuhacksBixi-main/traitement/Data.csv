@@ -1,0 +1,537 @@
+address,latitude,longitude,visit_count,type
+Métro Mont-Royal (Utilités publiques / Rivard),45.5242361,-73.5815522,4137,high
+Clark / Laurier,45.5225445,-73.5934693,3148,high
+Métro Papineau (Dorion / De Maisonneuve),45.5238446,-73.552366,3624,high
+Marquette / Laurier,45.53543,-73.5822,3186,high
+Métro Sherbrooke (de Rigaud / Berri),45.518292,-73.567971,3827,high
+Milton / Durocher,45.508141,-73.57493,3092,high
+St-Dominique / Laurier,45.5236149,-73.5924574,3821,high
+Jeanne-Mance / Sherbrooke,45.5092868,-73.5710192,3311,high
+Métro Vendôme (de Marlowe / de Maisonneuve),45.473868,-73.604538,3079,high
+Laurier / St-Denis,45.5271484,-73.5894795,3705,high
+Métro Beaubien (de Chateaubriand / Beaubien),45.53536,-73.603635,4581,high
+Milton / University,45.5065198,-73.576405,5671,high
+Chomedey / de Maisonneuve,45.4918,-73.584006,3332,high
+Milton / du Parc,45.509361,-73.573864,3484,high
+Gilford / St-Denis,45.5251147,-73.586006,3413,high
+Émile-Duployé / Sherbrooke,45.527201,-73.564729,3253,high
+Clark / St-Viateur,45.5251603,-73.5992467,3099,high
+Peel / Ottawa,45.4941996,-73.5599846,4123,high
+du Parc-Lafontaine / Rachel,45.5254742,-73.5743251,3183,high
+Métro Peel (de Maisonneuve / Stanley),45.50038,-73.57507,4729,high
+Square St-Louis (du Square St-Louis / Laval),45.516091,-73.570129,4067,high
+St-André / Ste-Catherine,45.516427,-73.558112,4090,high
+Guy / Sainte-Catherine,45.4949751,-73.5777704,4466,high
+Richmond / des Bassins,45.4875216,-73.565003,3037,high
+de la Commune / King,45.497515,-73.552571,3682,high
+de Lanaudière / du Mont-Royal,45.5302211,-73.5769965,4243,high
+Prince-Arthur / du Parc,45.51059,-73.57547,4665,high
+Laurier / de Brébeuf,45.532514,-73.584811,4307,high
+Clark / Rachel,45.517354,-73.582129,4297,high
+Jeanne-Mance / Laurier,45.5201249,-73.5952138,3453,high
+St-Dominique / St-Zotique,45.532265,-73.611063,3234,high
+de la Commune / Place Jacques-Cartier,45.50761,-73.551836,4473,high
+des Pins / St-Laurent,45.5152281,-73.5750961,6586,high
+Duluth  / St-Denis,45.5208024,-73.5757989,3550,high
+de la Commune / St-Sulpice,45.504242,-73.55347,3997,high
+Clark / Prince-Arthur,45.513303,-73.572961,4504,high
+Berri / Cherrier,45.519088,-73.569509,4581,high
+Mackay / de Maisonneuve,45.49683,-73.57913,4935,high
+Boyer / du Mont-Royal,45.527432,-73.579917,5762,high
+McTavish / Sherbrooke,45.502813,-73.576024,5611,high
+Aylmer / Prince-Arthur,45.508567,-73.577698,3389,high
+Duluth / de l'Esplanade,45.515092,-73.581142,3744,high
+Marquette / du Mont-Royal,45.53229,-73.57544,6682,high
+des Bassins / du Séminaire,45.490452,-73.560172,3386,high
+Alexandre-DeSève / Ste-Catherine,45.52123,-73.553861,1339,average
+de Mentana / Marie-Anne,45.526027,-73.577859,1884,average
+de Chambly / Rachel,45.549911,-73.558263,1215,average
+Métro Charlevoix (Centre / Charlevoix),45.478228,-73.569651,2124,average
+CÉGEP du Vieux-Montréal (Ontario / de l'Hôtel-de-Ville),45.5140122,-73.5659867,1861,average
+Milton / St-Laurent,45.5129039,-73.5705918,1117,average
+St-Grégoire / Christophe-Colomb,45.5325974,-73.5901111,1902,average
+U. Concordia - Campus Loyola (Sherbrooke / West Broadway),45.457509,-73.639485,1156,average
+Bennett / Ste-Catherine,45.553053,-73.532427,1050,average
+Chabot / Beaubien,45.544376,-73.595645,1377,average
+St-Ambroise / Louis-Cyr,45.4751933,-73.5809433,1180,average
+Métro de l'Église (Ross / de l'Église),45.462726,-73.565959,1580,average
+de l'Hôtel-de-Ville / Roy,45.517401,-73.574605,1945,average
+de l'Hôtel-de-Ville / Rachel,45.5198966,-73.5801065,1670,average
+William / Robert-Bourassa,45.497165,-73.55933,1250,average
+d'Orléans / Masson,45.557192,-73.569847,1394,average
+Jeanne-Mance / St-Viateur,45.523027,-73.60184,2978,average
+St-Hubert / de Maisonneuve (nord),45.5161321,-73.5604969,1338,average
+William / St-Henri,45.498919,-73.557254,1523,average
+Marché Atwater,45.480208,-73.577599,2835,average
+Plessis / Ontario,45.523492,-73.56073,1760,average
+Rachel / de Brébeuf,45.52689,-73.57264,2589,average
+Peel / Notre-Dame,45.4954469,-73.5632944,2997,average
+Parc Baldwin (Fullum / Sherbrooke),45.5340705,-73.5626507,2162,average
+5e avenue / Masson,45.5475583,-73.5754719,2412,average
+Parc Lalancette (de Rouen / Valois),45.548145,-73.5471261,1351,average
+Marcil / Sherbrooke,45.471743,-73.613924,1184,average
+de Léry / Sherbrooke,45.5409997,-73.5582626,1040,average
+Beaudry / Sherbrooke,45.523035,-73.565395,1834,average
+Parc du Pélican (1ère avenue / Masson),45.5451997,-73.5764507,2757,average
+Cypress / Peel,45.499325,-73.571768,1138,average
+Boyer / St-Zotique,45.53848,-73.60556,2487,average
+St-Hubert / Laurier,45.52931,-73.588657,1841,average
+Sanguinet / de Maisonneuve,45.513405,-73.562594,1349,average
+Drolet / St-Zotique,45.534882,-73.609412,1302,average
+Logan / Fullum,45.528366,-73.551171,1019,average
+de Maisonneuve / Mansfield (sud),45.502145,-73.573427,2118,average
+15e avenue / Masson,45.553898,-73.571387,1449,average
+Métro Frontenac (Ontario / du Havre),45.533706,-73.552179,2363,average
+Fullum / Marie-Anne,45.5365054,-73.5680392,2186,average
+St-Alexandre / Ste-Catherine,45.505359,-73.567741,1968,average
+Métro Lionel-Groulx (St-Jacques / Atwater),45.4836285,-73.5797026,2288,average
+Mont-Royal / St-Denis,45.5238768,-73.5830489,1182,average
+Métro Villa-Maria (de Monkland / Décarie),45.4789684,-73.6195993,1061,average
+Gauthier / de Lorimier,45.531674,-73.565413,2244,average
+Omer-Lavallée / du Midway,45.545776,-73.562175,1403,average
+Villeneuve / du Parc,45.51829,-73.59235,2045,average
+Métro Parc  (Hutchison / Ogilvy),45.5303513,-73.6243924,2269,average
+St-Urbain / Beaubien,45.52951,-73.61068,1289,average
+Parc Ludger-Duvernay (St-André / St-Hubert),45.5314746,-73.5924205,1117,average
+St-Urbain / de la Gauchetière,45.507078,-73.561395,1320,average
+de Bellechasse / de St-Vallier,45.53341,-73.601124,1904,average
+Messier / St-Joseph,45.5394606,-73.5760564,1326,average
+St-Charles / Thomas-Keefer,45.477605,-73.573775,2588,average
+Dollard / Van Horne,45.519153,-73.616469,1346,average
+Masson / Molson,45.5443459,-73.5769769,1347,average
+St-Laurent / Pl. du Marché,45.5092896,-73.562416,2192,average
+BAnQ (Berri),45.5160139,-73.5629196,1973,average
+Métro Verdun (Willibrord / de Verdun),45.459488,-73.572092,1864,average
+Montcalm / de Maisonneuve,45.519139,-73.557866,2215,average
+Place Valois (Valois / Ontario),45.5471414,-73.5433951,1265,average
+St-Jacques / St-Laurent,45.506421,-73.556466,1082,average
+Aylmer / Ste-Catherine,45.5043468,-73.5689485,1282,average
+St-Nicolas / Place d'Youville,45.501967,-73.555153,1458,average
+Notre-Dame / de la Montagne,45.493029,-73.564818,1631,average
+Guizot / St-Laurent,45.539663,-73.634475,1013,average
+de la Roche /  de Bellechasse,45.537159,-73.597476,1470,average
+Métro Mont-Royal (Pontiac / du Mont-Royal),45.5239839,-73.5830784,1374,average
+St-Hubert / Duluth,45.522426,-73.574184,2831,average
+de la Roche / Bélanger,45.54167,-73.607604,1685,average
+Pierre-de-Coubertin / Aird,45.5590311,-73.5483035,1300,average
+Drummond / Ste-Catherine,45.498639,-73.574227,1085,average
+1ère avenue / Rosemont,45.5478,-73.584867,1314,average
+Casgrain / Maguire,45.525933,-73.595253,1358,average
+Métro Édouard-Montpetit (du Mont-Royal / Vincent-d'Indy),45.510086,-73.611429,1597,average
+de Gaspé / Villeray,45.5388872,-73.623907,1150,average
+de Lanaudière / Bélanger,45.543651,-73.60565,1537,average
+19e avenue / St-Zotique,45.561594,-73.585643,1034,average
+Boucher / St-Denis,45.5278492,-73.5918613,1935,average
+Durocher / Beaumont,45.5280002,-73.6192358,1169,average
+Querbes / Laurier,45.51754,-73.597832,1317,average
+St-Denis / Ste-Catherine,45.5137229,-73.5603105,2394,average
+Calixa-Lavallée / Sherbrooke,45.52479,-73.56545,2423,average
+Chabot / de Bellechasse,45.54257,-73.592144,1471,average
+Desjardins / Ontario,45.551192,-73.540873,1262,average
+Sewell / Roy,45.5146774,-73.5765982,1043,average
+Garnier / St-Joseph,45.532978,-73.581222,1387,average
+Métro Bonaventure (de la Gauchetière / de la Cathédrale),45.4983122,-73.567256,1399,average
+University / Prince-Arthur,45.507402,-73.578444,2294,average
+du President-Kennedy / Union,45.505011,-73.572028,1635,average
+Métro Côte-des-Neiges (Jean-Brillant / de la Côte-des-Neiges),45.496098,-73.621733,2157,average
+University / des Pins,45.508203,-73.580112,1143,average
+Métro Jarry (Lajeunesse / Jarry),45.5435597,-73.627772,2909,average
+Marmier / St-Denis,45.530871,-73.598345,2919,average
+Lajeunesse / Villeray,45.542119,-73.622547,1887,average
+Richardson / Montmorency,45.4849661,-73.5603225,1601,average
+Jeanne-Mance / Fairmount,45.5209837,-73.5972807,1492,average
+Ste-Catherine / Union,45.5036663,-73.5695761,2981,average
+Canning / Notre-Dame,45.486319,-73.570233,1058,average
+Métro Université de Montréal (Édouard-Montpetit / Louis-Collin),45.50367,-73.61848,2311,average
+Métro Place Saint-Henri (St-Ferdinand / St-Jacques),45.4772809,-73.5873042,1235,average
+Henri-Julien / de Castelnau,45.537891,-73.618215,1397,average
+Jeanne-Mance / Beaubien,45.52765,-73.6123,1175,average
+CHSLD Robert Cliche (de Bellechasse / 16e avenue),45.557568,-73.579191,1019,average
+Gare d'autocars de Montréal (Berri / Ontario),45.516897,-73.563949,2470,average
+Parc Maisonneuve (Viau / Sherbrooke),45.5649368,-73.5555911,1532,average
+St-Denis / de Maisonneuve,45.514404,-73.561919,1381,average
+Ottawa / William,45.489727,-73.564063,1585,average
+Cartier / Dandurand,45.539236,-73.585946,1304,average
+de Maisonneuve / Mansfield (nord),45.502311,-73.5733635,1285,average
+Mackay / Ste-Catherine,45.495709,-73.576952,2579,average
+de Lanaudière / Laurier,45.533314,-73.583737,2546,average
+Messier / du Mont-Royal,45.537114,-73.571003,2857,average
+de l'Hôtel-de-Ville / Ste-Catherine,45.51166,-73.562136,1692,average
+Place du Canada (Peel / des Canadiens-de-Montréal),45.4978835,-73.5685676,2107,average
+Gary-Carter / St-Laurent,45.5359,-73.622443,2478,average
+Fortune / Wellington,45.477923,-73.559038,1080,average
+10e avenue / Masson,45.550306,-73.573353,2901,average
+Montcalm / Ontario,45.521081,-73.562275,2242,average
+Maguire / St-Laurent,45.524628,-73.595811,2194,average
+Ste-Catherine / Towers,45.4922807,-73.5809648,2958,average
+Lincoln / du Fort,45.493034,-73.583836,1034,average
+Hutchison / Van Horne,45.524942,-73.610606,1125,average
+Letourneux / Ste-Catherine,45.5507836,-73.5341,1082,average
+Aylmer / Sherbrooke,45.506587,-73.573299,2085,average
+Métro Place-des-Arts (du Président-Kennedy / Jeanne-Mance),45.5082046,-73.5688144,2736,average
+de Gaspé / Beaubien,45.5319579,-73.607001,2101,average
+Métro Snowdon (de Westbury / Queen-Mary),45.485385,-73.628142,1115,average
+Jeanne-Mance / René-Lévesque,45.506371,-73.564201,1949,average
+Molson / Beaubien,45.549686,-73.591155,1327,average
+Marché Jean-Talon (Henri-Julien / Jean-Talon),45.536785,-73.614888,2101,average
+St-Mathieu / Sherbrooke,45.495789,-73.582596,2107,average
+McGill / Wellington,45.4994477,-73.5548991,1059,average
+St-Cyril / Wiseman,45.5208548,-73.6157396,1285,average
+Boyer / Everett,45.5432845,-73.6162861,1261,average
+Métro Crémazie (Crémazie / Lajeunesse),45.546408,-73.638428,1344,average
+Victoria / de Maisonneuve,45.477429,-73.600169,1361,average
+St-André / Rachel,45.5243532,-73.5759665,1597,average
+Drolet / Beaubien,45.533348,-73.605834,1837,average
+Mozart / St-Laurent,45.53318,-73.61544,1134,average
+de Kent / de la Côte-des-Neiges,45.501449,-73.633051,1635,average
+Valois / Ste-Catherine,45.54523,-73.53725,1250,average
+St-Dominique / du Mont-Royal,45.5205595,-73.5858203,2536,average
+Henri-Julien / Laurier,45.525843,-73.590399,2112,average
+St-Antoine / de la Montagne,45.4953717,-73.5685891,1534,average
+de Maisonneuve / Greene,45.486971,-73.589293,1548,average
+Marie-Anne / St-Hubert,45.524683,-73.578897,1933,average
+Ste-Catherine / St-Laurent,45.5098134,-73.5638952,1655,average
+St-Dominique / Bernard,45.527933,-73.601223,1245,average
+Maguire / Henri-Julien,45.527041,-73.593471,1243,average
+Pontiac / Gilford,45.527009,-73.585766,2430,average
+Square Viger (Berri / Viger),45.5122121,-73.5546289,2333,average
+Crescent / de Maisonneuve,45.498112,-73.577615,2586,average
+Parc Jeanne-Mance (monument sir George-Étienne-Cartier),45.5148749,-73.5848641,1537,average
+de Bleury / de Maisonneuve,45.5070965,-73.5684416,2375,average
+de Monkland / Girouard,45.477107,-73.621438,1064,average
+Poupart / Ontario,45.531939,-73.553439,1061,average
+Ste-Catherine / Dezery,45.539385,-73.541,1485,average
+Villeneuve / St-Laurent,45.521342,-73.589419,2475,average
+Faillon / St-Denis,45.5398641,-73.6203128,1286,average
+Prince-Arthur / St-Urbain,45.512587,-73.573739,2422,average
+Métro Rosemont (de St-Vallier / Rosemont),45.531783,-73.597793,2273,average
+Melville / de Maisonneuve,45.4818402,-73.595379,1506,average
+St-Dominique / de Bellechasse,45.5295036,-73.6048646,2332,average
+Boyer / Jean-Talon,45.541586,-73.612481,1007,average
+de Bullion / du Mont-Royal,45.521751,-73.585268,2197,average
+Hutchison / Prince-Arthur,45.509759,-73.576107,2451,average
+Laval / Duluth,45.519216,-73.57718,2851,average
+St-Zotique / Clark,45.531401,-73.612674,1148,average
+de Bellechasse / de Lanaudière,45.5393536,-73.5953736,1573,average
+Métro St-Michel (Shaughnessy / St-Michel),45.559199,-73.599658,1079,average
+St-André / Ontario,45.51889,-73.56353,1591,average
+Laval / du Mont-Royal,45.522365,-73.584146,2772,average
+St-Urbain / René-Lévesque,45.507838,-73.563136,1589,average
+René-Lévesque / Papineau,45.5209208,-73.5499048,1360,average
+Beaubien / 8e avenue,45.553457,-73.587842,1167,average
+St-Antoine / Jean-Paul Riopelle,45.5029397,-73.5606404,1475,average
+Édouard-Montpetit / de Stirling,45.50723,-73.615085,2185,average
+Regina / de Verdun,45.467369,-73.570769,1020,average
+Parc Père-Marquette (Chambord / Rosemont),45.537088,-73.593219,2348,average
+16e avenue / St-Joseph,45.55287,-73.565631,1159,average
+Casgrain / St-Viateur,45.527513,-73.598791,1045,average
+Métro Pie-IX (Pierre-de-Coubertin / Desjardins),45.5543734,-73.5513747,2458,average
+Queen / Wellington,45.497605,-73.55535,1175,average
+Waverly / St-Viateur,45.523856,-73.600127,2398,average
+Cartier / Marie-Anne,45.532674,-73.571776,2565,average
+Métro Sauvé (Berri / Sauvé),45.550692,-73.656367,1442,average
+Ste-Catherine / St-Clément,45.5567173,-73.5302496,1030,average
+Atateken / du Square Amherst,45.5206338,-73.563906,2775,average
+Ste-Catherine / Sanguinet,45.5128938,-73.5612479,1714,average
+Drummond / Sherbrooke,45.5003924,-73.578168,1313,average
+Parc du Pélican (2e avenue / St-Joseph),45.544513,-73.571564,1047,average
+de Castelnau / Lajeunesse,45.5403962,-73.6168179,1279,average
+de Maisonneuve / Mansfield (sud-est),45.5022935,-73.5733064,1521,average
+Place des Festivals ( du Président-Kennedy / de Bleury),45.5076439,-73.569324,2210,average
+La Tour de Montréal (Pierre-de-Coubertin / Bennett),45.5597053,-73.5515544,1713,average
+Aylwin / Ontario,45.544284,-73.54534,2961,average
+Gilford / des Érables,45.5375266,-73.5751244,1266,average
+André-Laurendeau / Rachel,45.5428981,-73.561846,2413,average
+Laurier / de Bordeaux,45.537205,-73.579254,2044,average
+Parc Chamberland (Dorais / de l'Église),45.502989,-73.689113,154,low
+Bloomfield / Ball,45.5299594,-73.632946,969,low
+Brittany / Ainsley,45.5258899,-73.6500344,402,low
+Parc Beaulac (rue Élizabeth),45.5200557,-73.6779515,88,low
+de Grenoble / de Cassis,45.5788972,-73.7049271,56,low
+Lamarre / Lavallée,45.5337477,-73.4859958,86,low
+Natatorium (LaSalle / Rolland),45.444547,-73.575091,748,low
+Parc du Bois-Franc (de l'Équateur / des Andes),45.5131776,-73.7130609,178,low
+University / Milton,45.506511,-73.576669,256,low
+Palm / St-Rémi,45.470366,-73.589816,157,low
+Métro Champ-de-Mars (Viger / Sanguinet),45.510351,-73.556508,365,low
+du Canal / McLaughlin,45.4297026,-73.6694868,737,low
+De Callières / d'Auvergne,45.593422,-73.6690217,71,low
+Industriel / Louis-J.-Lafortune,45.5819096,-73.4552991,12,low
+Parc MacDonald (Clanranald / Isabella),45.4826927,-73.6348128,415,low
+du Tricentenaire / Prince-Albert,45.649546,-73.491916,62,low
+Duchesneau / de Marseille,45.6096263,-73.522739,199,low
+Parc Laurier (Laurier / Dubuc),45.5336105,-73.4737462,84,low
+de Mortagne / Jean-Neveu,45.5692375,-73.449499,24,low
+de l'Hotel-de-Ville / Ontario,45.5137452,-73.5666633,938,low
+Pierre-Péladeau / du Centropolis,45.5625118,-73.7437065,108,low
+des Ormeaux / de Grosbois,45.6059017,-73.5343695,234,low
+Bassin olympique (Chemin du Chenal le Moyne),45.5169025,-73.5272455,348,low
+Parc Ernest-Rouleau (Gouin),45.6313127,-73.616315,118,low
+Parc Ottawa (de Belleville / Fleury),45.58116,-73.6412434,132,low
+Plymouth / Chem.Eden,45.5064888,-73.6604789,194,low
+Robert-Bourassa / René-Lévesque,45.5021829,-73.5682538,932,low
+du Parc / François-Foucault,45.6057854,-73.66274,66,low
+Bloomfield / Jean-Talon,45.5274603,-73.6241752,161,low
+Parc Champdoré (Champdoré / de Lille),45.5691762,-73.6362934,407,low
+Cartier / Gillford,45.535288,-73.5773814,354,low
+St-Jacques / Vinet,45.485329,-73.5769227,513,low
+Bibliothèque du Boisé (Thimens / Todd),45.504635,-73.704432,13,low
+Parc St-Henri (Laporte / Guay),45.4801338,-73.5859081,517,low
+Maisonneuve / Wood,45.4881979,-73.5880705,403,low
+Chabanel / du Parc,45.538308,-73.654884,806,low
+Parc LaSalle (10e avenue / Victoria),45.4380555,-73.6727393,118,low
+Parc St-Claude (8e rue / 7e avenue),45.5622343,-73.6916762,34,low
+du Havre / de Rouen,45.534563,-73.554787,825,low
+de Melrose / Sherbrooke,45.46982,-73.616961,730,low
+Mozart / François-Foucault,45.604288,-73.6649179,13,low
+Notre-Dame / St-Gabriel,45.507144,-73.555119,845,low
+Jardin Botanique dépôt fierté (Sherbrooke / Pie-IX),45.5567924,-73.554647,2,low
+Dixie / 54e avenue,45.4433803,-73.7178916,78,low
+Parc St-Laurent (Salk / Thomas-Chapais),45.6062348,-73.6287838,53,low
+St-Timothé / Robin,45.5186318,-73.5611299,3,low
+de Gaspé / de Liège,45.542485,-73.636342,866,low
+Parc Ivan-Franko (33e avenue / Victoria),45.43746,-73.6935318,6,low
+Langelier / Marie-Victorin,45.6145192,-73.6122447,95,low
+McNamara / St-Martin O,45.5712036,-73.7235188,70,low
+Tolhurst / Fleury,45.544149,-73.66752,557,low
+Métro de la Concorde (Léo-Lacombe),45.5604899,-73.7091851,143,low
+Parc Lacharité (Latour / Forget),45.4177375,-73.6233855,150,low
+Parc Luigi-Pirandello (de Bretagne / Jean-Rivard),45.5794057,-73.6025888,195,low
+St-Charles / Montarville,45.533682,-73.515261,96,low
+Parc Wilfrid-Bastien (Lacordaire / des Galets),45.5864002,-73.5952181,136,low
+Laird / Glencoe,45.5061916,-73.642308,317,low
+Gloria / Dollard,45.429711,-73.6338834,221,low
+Bibliothèque d'Ahuntsic (Lajeunesse / Fleury),45.5534001,-73.6622545,592,low
+Pratt / Bates,45.5169478,-73.6263156,695,low
+Victoria / 18e avenue Lachine,45.435996,-73.680111,145,low
+5e avenue / Rosemont,45.5499,-73.583084,755,low
+Métro Longueuil - Université de Sherbrooke,45.523319,-73.520127,532,low
+Mairie d'arrondissement St-Laurent (Beaudet / Marcel-Laurin),45.5068242,-73.681848,168,low
+Henri-Julien / de Bellechasse,45.5295036,-73.6048646,923,low
+de la Peltrie / de la Côte-des-Neiges,45.4997974,-73.6301753,151,low
+Ste-Claire / Pierre-Tétreault,45.6019133,-73.5244185,185,low
+Parc de Beauséjour (Gouin / Henri-d'Arles),45.526765,-73.730423,114,low
+de Côme / Jean-Talon,45.588303,-73.5778372,232,low
+Ouimet / Goineau,45.5750482,-73.6879957,83,low
+de Grosbois / Duchesneau,45.6112307,-73.5312416,274,low
+Metcalfe / St-Catherine,45.500832,-73.572459,862,low
+Crescent / de Maisonneuve N/E,45.4981204,-73.5775959,342,low
+de Mentana / Gilford,45.528724,-73.583859,219,low
+Pierre-de-Coubertin / Langelier,45.580315,-73.535314,292,low
+Stanley / Sherbrooke,45.501041,-73.577178,199,low
+Notre-Dame / Gauvin,45.500105,-73.560199,193,low
+Ateliers municipaux de St-Laurent (Cavendish / Poirier),45.5061758,-73.7111861,116,low
+Gare Lachine (Sir George Simpson / 48e avenue),45.4478213,-73.7109178,31,low
+du Souvenir / Chomedey,45.551886,-73.74444,44,low
+Ste-Catherine / Drummond S/E,45.4986699,-73.5742392,94,low
+Parc Aimé-Léonard (Gouin / Ste-Gertrude),45.6083582,-73.6385062,143,low
+St-Germain / Hochelaga,45.543699,-73.553673,593,low
+41e avenue / Victoria,45.440347,-73.7023133,45,low
+Gare du Ruisseau (Dutrisac / Henri-Bourassa),45.5281437,-73.6925454,47,low
+St-Sylvestre / St-Charles,45.5363238,-73.5122496,121,low
+Laforest / Dudemaine,45.539806,-73.687266,208,low
+O'Brien / Poirier,45.52246,-73.691564,201,low
+Hamel / Sauvé,45.560762,-73.650561,264,low
+Métro St-Laurent dépôt 2 (de Maisonneuve / St-Laurent),45.5107097,-73.5653543,138,low
+Parc Delorme (Malouin / Laferté),45.5904902,-73.5902694,123,low
+90e Avenue / Boulevard Lévesque O,45.5312146,-73.747353,68,low
+Saint-Denis/de Maisonneuve,45.5144049,-73.5618111,199,low
+Souligny / Desmarteau,45.6046208,-73.5159963,213,low
+St-Viateur / Casgrain,45.5271166,-73.5977359,403,low
+Square Nelligan (des Appalaches / Alexis-Nihon),45.5143182,-73.7079982,104,low
+Parc Loyola (Doherty / Somerled),45.4597611,-73.6447746,209,low
+Monk / Biencourt,45.4586632,-73.5960227,420,low
+du Square Dorchester / Peel,45.4996996,-73.5719365,36,low
+Place du Village (St-Jean-Baptiste / Notre-Dame),45.6400029,-73.490113,67,low
+Parc Charleroi (Alfred / Louis-Francoeur),45.5995347,-73.6236025,58,low
+Gordon / Wellington,45.461078,-73.567307,241,low
+Parc Kirkland (des Érables / Boyer),45.4460609,-73.6507995,285,low
+Parc Stoney-Point (St-Joseph / 47e avenue),45.4365683,-73.7083697,133,low
+Mexico / Valois,45.5847051,-73.7192541,23,low
+Notre-Dame-de-Grâce / Décarie,45.477353,-73.615372,216,low
+Métro Angrignon (Lamont /  des Trinitaires),45.44691,-73.60363,445,low
+St-Christophe / René-Lévesque,45.5149464,-73.5562329,278,low
+Keller / Cousineau,45.5235502,-73.7138857,149,low
+Louisbourg / O'Brien,45.5303945,-73.7039322,226,low
+Bélanger / St-Laurent,45.5331335,-73.6147285,408,low
+de Mentana / Laurier,45.53045,-73.587638,994,low
+Jean-Paul-Vincent / Adoncour,45.5646764,-73.4795775,22,low
+Métro Papineau (Cartier / Ste-Catherine),45.52353,-73.55199,920,low
+Parc Chopin (Dumouchel / Tessier),45.5707266,-73.737086,33,low
+Saint-Rémi / Valois,45.5839618,-73.7208259,30,low
+Hôpital Sacré-Coeur (Forbes),45.5319436,-73.7136054,150,low
+41e avenue / Rosemont,45.57179,-73.564315,434,low
+Legrand / Cartier,45.552298,-73.7073827,137,low
+de Chenonceau / Chomedey,45.56157,-73.75448,46,low
+Champdoré / de Lorimier,45.5668693,-73.6410168,242,low
+Quai Yvon-Julien (Marie-Victorin / de Montarville),45.606718,-73.4569203,83,low
+Jardin Botanique (Pie-IX / Sherbrooke),45.554947,-73.555295,480,low
+Parc St-Sacrement (des Seigneurs / St-Sacrement),45.7023493,-73.639578,19,low
+Parc des Hirondelles (Fleury / André-Jobin),45.5760003,-73.6467648,310,low
+Parc du Pélican (Molson / Masson),45.5440891,-73.5770595,47,low
+Logan / d'Iberville,45.53057,-73.54913,524,low
+des Ormeaux / Notre-Dame,45.5992655,-73.5122607,187,low
+Chabot / Laurier,45.5368558,-73.5793731,321,low
+Letourneux / Hochelaga,45.5546589,-73.546603,761,low
+Jeanne-Mance / St-Martin O,45.5574215,-73.7480604,43,low
+Parc Maurice-Bélanger (Hébert / Denommée),45.5877138,-73.6317182,86,low
+Hillside / Ste-Catherine,45.482826,-73.590843,876,low
+Parc Plage,45.502828,-73.527793,607,low
+de la Commune / Queen,45.496842,-73.5528928,330,low
+Aird / Pierre-de-Coubertin,45.5589253,-73.5480573,95,low
+Complexe sportif Claude Robillard (Émile-Journault),45.5529855,-73.6386477,95,low
+Wolfe / de la Gauchetière,45.5162224,-73.5529733,345,low
+Métro Cadillac (Cadillac / Sherbrooke),45.5768333,-73.5464742,541,low
+Le Corbusier / St-Martin O,45.5650067,-73.7319054,64,low
+Christophe-Colomb / Gilford,45.5297028,-73.5828853,228,low
+Notre-Dame  / St-Martin,45.4883019,-73.5687178,895,low
+Clark / Fleury,45.547581,-73.665234,600,low
+Shearer / Centre,45.483006,-73.562187,900,low
+Lanaudière / Jean-Talon,45.5454627,-73.6107802,677,low
+de St-Firmin / Fleury,45.570657,-73.651842,442,low
+Métro Joliette  (Hochelaga / Joliette),45.5469919,-73.5511534,830,low
+Ontario / Sicard,45.556262,-73.537441,968,low
+Charles-Daoust / 75e avenue,45.5425059,-73.7409532,65,low
+Murray / Wellington,45.4921472,-73.5579836,884,low
+du Havre / Hochelaga,45.535753,-73.557941,248,low
+Parc d'Antioche (Place d'Antioche / St-Zotique),45.595352,-73.55859,137,low
+St-Jacques / des Seigneurs,45.489186,-73.5719,459,low
+29e avenue / St-Zotique,45.567766,-73.579688,701,low
+Gare Bois-de-Boulogne,45.539726,-73.677165,319,low
+LaSalle / Godin,45.446934,-73.572199,853,low
+Métro Henri-Bourassa (Henri-Bourassa / Millen),45.556751,-73.667162,820,low
+de Bordeaux / Jean-Talon,45.549755,-73.605566,759,low
+St-Marc / Sherbrooke,45.494514,-73.583368,554,low
+de la Côte-Ste-Catherine / Decelles,45.500941,-73.625637,673,low
+de Gaspé / Jarry,45.54078,-73.630401,839,low
+de la Petrie /de la Cote-des-Neiges,45.4996658,-73.6302906,123,low
+de Laprairie / Centre,45.4813667,-73.5643189,592,low
+Chabot / Villeray,45.5522894,-73.6130065,830,low
+Coolbrook / Queen-Mary,45.482852,-73.630344,37,low
+Liébert / Hochelaga,45.595875,-73.523528,325,low
+Métro Jolicoeur (de Sève / Drake),45.4560855,-73.5819371,757,low
+Louis-Hémon / Jean-Talon,45.5517743,-73.6034784,976,low
+Carrefour Angrignon (Angrignon / Newman),45.4484341,-73.6129455,121,low
+du Champ-de-Mars / Gosford,45.509655,-73.554009,807,low
+Parc de Dieppe,45.5018635,-73.543961,698,low
+St-Patrick / Briand,45.463397,-73.596436,436,low
+Drolet / Gounod,45.540951,-73.626375,968,low
+Parc Eusèbe-Ménard (Gouin / St-Vital),45.5925395,-73.6487482,193,low
+Hogan / Ontario,45.535295,-73.55116,740,low
+Parc Pratt (Dunlop / Van Horne),45.515007,-73.619788,614,low
+du Marché Central / Crémazie,45.5334174,-73.6488837,372,low
+Parc Villeray (Christophe-Colomb / Jarry),45.5480925,-73.624261,982,low
+de l'Église / Bannantyne,45.463254,-73.575879,971,low
+Boyer / St-Joseph,45.5295423,-73.5846072,698,low
+2e avenue / Jean-Rivard,45.562509,-73.61656,315,low
+St-Dominique / Gounod,45.538738,-73.628022,357,low
+de Gaspé / Marmier,45.529686,-73.601728,576,low
+Lacombe / Victoria,45.490628,-73.628878,469,low
+Duke / Nazareth,45.4957224,-73.5546134,520,low
+Harvard / de Monkland,45.474565,-73.624036,780,low
+des Jockeys / Décarie,45.4940443,-73.6544949,257,low
+St-Hubert / René-Levesque,45.5143692,-73.556487,836,low
+Ropery / Augustin-Cantin,45.480914,-73.56846,972,low
+Parc Félix-Leclerc (François-Boivin / St-Zotique),45.591455,-73.5627553,177,low
+Notre-Dame / Guy,45.4900138,-73.5672063,906,low
+de l'Église / de Verdun,45.463001,-73.571569,915,low
+Marquette / Gillford,45.533815,-73.5789049,373,low
+Fullum / Gilford,45.539224,-73.573837,553,low
+Bourget / St-Jacques,45.4808458,-73.5838616,761,low
+Clark / Ontario,45.5106246,-73.5669033,972,low
+Ste-Catherine / Drummond,45.4985885,-73.5742781,509,low
+des Érables / Dandurand,45.5413694,-73.583974,637,low
+Métro Assomption (Chauveau / de l'Assomption),45.569789,-73.548081,607,low
+Graham / Wicksteed,45.5169365,-73.640483,634,low
+St-Jacques / Guy,45.4913669,-73.5701072,537,low
+Métro Monk (Allard / Beaulieu),45.450851,-73.594027,933,low
+Métro Viau ( Pierre-de-Coubertin / Viau),45.5622187,-73.5462677,759,low
+Terminus Newman (Airlie / Lafleur),45.4250597,-73.6495992,82,low
+Boyer /Laurier,45.5303709,-73.5865103,825,low
+Chambord / Fleury,45.559828,-73.658325,505,low
+Bibliothèque Jean-Corbeil (Goncourt / Place Montrichard),45.6027276,-73.5579303,184,low
+de la Montagne / Ste-Catherine,45.4977406,-73.5748494,761,low
+Parc Van Horne (de la Peltrie / de Westbury),45.4904723,-73.6385324,338,low
+35e avenue / Beaubien,45.570081,-73.573047,556,low
+Dollard / Bernard,45.516783,-73.611423,867,low
+Fairmount / Hutchison,45.5196243,-73.598312,606,low
+Jogues / Allard,45.45002,-73.600306,370,low
+Kirkfield / de Chambois,45.5129332,-73.6338902,562,low
+des Écores / Beaubien,45.5475364,-73.5926726,948,low
+Casino de Montréal,45.506373,-73.524577,623,low
+Quai de la navette fluviale,45.513741,-73.538382,451,low
+Lucien L'Allier / St-Jacques,45.493569,-73.568576,950,low
+6e avenue / Villeray,45.5587396,-73.6058904,402,low
+Elgar / de l'Île-des-Sœurs,45.456823,-73.546804,575,low
+Gare Montpellier (Muir / de la Côte-Vertu),45.5237405,-73.6716992,251,low
+Métro Acadie (de l'Acadie / Beaumont),45.523575,-73.623443,984,low
+Place Longueuil,45.52841,-73.517166,127,low
+de Maisonneuve / Wood,45.4881979,-73.5880705,843,low
+de Lisieux / Jean-Talon,45.579349,-73.581681,291,low
+Rosemont / Viau,45.56833,-73.566663,735,low
+St-Joseph / 8e avenue Lachine,45.43155,-73.67112,486,low
+Clark / de Liège,45.539984,-73.638135,432,low
+Bélanger / des Galeries d'Anjou,45.597221,-73.56279,352,low
+Guizot / St-Denis,45.543424,-73.632462,989,low
+LaSalle / Crawford,45.437914,-73.58274,498,low
+Cartier / Rosemont,45.541247,-73.591044,974,low
+12e avenue / St-Zotique,45.556867,-73.589307,838,low
+Graham / Kindersley,45.51405,-73.6472556,460,low
+Beatty / de Verdun,45.45073,-73.572575,946,low
+Robert-Bourassa / St-Maurice,45.4983705,-73.5605559,771,low
+20e avenue / de Bellechasse,45.5599626,-73.5769522,446,low
+Métro Langelier (Langelier / Sherbrooke),45.582847,-73.542476,525,low
+Alton-Goldbloom / Notre-Dame,45.545026,-73.7378767,51,low
+Parc de la Confédération (Fielding / West Hill),45.471882,-73.6400217,766,low
+Parc Henri-Julien (Legendre / Henri-Julien),45.5460356,-73.6465985,478,low
+Travaux publics LaSalle (Cordner / Léger),45.4452719,-73.6244836,237,low
+Hélène-Baillargeon / St-Denis,45.52974,-73.59527,878,low
+de Normanville / Villeray,45.54717,-73.618041,838,low
+Parc Benny (Benny / de Monkland),45.4669357,-73.6315311,642,low
+Préfontaine / Marcel-Pépin,45.5436538,-73.5594206,368,low
+Terminus Le Carrefour (Terry-Fox / Le Carrefour),45.5684203,-73.7468728,69,low
+Irwin / Allard,45.4489034,-73.6049049,41,low
+Parc Chenier (de l'Aréna / Chenier),45.6024865,-73.5432905,120,low
+Péloquin / Fleury,45.5570222,-73.6599016,446,low
+St-Timothée / Robin,45.5186318,-73.5611299,99,low
+Métro Côte-Ste-Catherine (Beaucourt / de la Côte-Ste-Catherine),45.491513,-73.633649,506,low
+Rose-de-Lima / Workman,45.4802642,-73.5809936,786,low
+Parc Howard (de l'Épée / de Liège),45.5616903,-73.610512,667,low
+Hochelaga / de l'Assomption,45.5668831,-73.5394382,393,low
+Berlioz / de l'Île des Soeurs,45.459986,-73.543956,577,low
+Parc St-Louis (St-Joseph / 34e avenue),45.4328398,-73.6934915,314,low
+Grand Boulevard / de Terrebonne,45.470544,-73.63168,508,low
+St-Joseph Lachine / 21e avenue,45.4335212,-73.6835432,290,low
+Chabanel / Tolhurst,45.540105,-73.6534703,560,low
+Everett / Garnier,45.5475815,-73.6122085,670,low
+Hamilton / Jolicoeur,45.456355,-73.597557,809,low
+Hôpital Général Juif (de la Côte-Ste-Catherine / Légaré),45.4962414,-73.6298387,749,low
+des Érables / Laurier,45.5384608,-73.5776791,753,low
+Ontario / Ville-Marie,45.5600196,-73.5349345,161,low
+Parc des Rapides (LaSalle / 6e avenue),45.429471,-73.593099,866,low
+26e avenue / Beaubien,45.564944,-73.577639,760,low
+Rielle / Wellington,45.4601559,-73.5670012,551,low
+Bibliothèque de Verdun (Brown / Bannantyne),45.448262,-73.577856,470,low
+Gilford / de Brébeuf,45.530816,-73.581626,192,low
+CHSLD St-Michel (8e avenue / Jarry),45.5616903,-73.610512,244,low
+8e avenue / Everett,45.5648113,-73.5958041,312,low
+Parc Nicolas-Tillemont (des Érables / Villeray),45.5546365,-73.6125522,687,low
+Nicolet / Sherbrooke,45.549695,-73.554647,684,low
+des Carrières / Marquette,45.5385795,-73.5884857,355,low
+Métro Radisson (Sherbrooke / des Groseilliers),45.589175,-73.539656,551,low
+Stationnement incitatif de Montarville (de Montarville),45.6011636,-73.4499935,18,low
+d'Orléans / Hochelaga,45.550768,-73.549427,766,low
+Michelet / Jean-Talon,45.5762911,-73.583529,343,low
+Atwater / Sherbrooke,45.491226,-73.58763,902,low
+Beaubien / Clark,45.5301473,-73.609824,177,low
+Ernest-Gendreau / du Mont-Royal,45.549714,-73.563848,843,low
+McKenna / Édouard-Montpetit,45.5011651,-73.6205475,684,low
+Louis-Hébert / Bélanger,45.551585,-73.599165,760,low
+Métro Honoré-Beaugrand (Sherbrooke / Honoré-Beaugrand),45.596797,-73.535179,739,low
+St-Urbain / Laurier,45.5216462,-73.5936677,994,low
+de Chateaubriand / Jarry,45.545955,-73.626992,758,low
+Place Rodolphe-Rousseau (Gohier / Édouard-Laurin),45.5129939,-73.6824985,631,low
+Papineau / Émile-Journault,45.559884,-73.633568,618,low
+Davaar / de la Côte-Ste-Catherine,45.514379,-73.610871,434,low
+St-Mathieu / René-Levesque,45.492134,-73.5763836,186,low
+St-Sylvestre / St-Charles S/E,45.5363889,-73.5124558,14,low
